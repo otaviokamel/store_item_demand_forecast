@@ -1,4 +1,4 @@
-# store_item_demand_forecast
+# Store Item Demand Forecast
 This repository is a project of machine learning to predict sales from different items and stores, serving as a studying project.
 
 The goal of this project is to simulate a real world problem, and train the abilities that are necessary for a data scientist.
